@@ -1,6 +1,7 @@
 [
     {
         "Name": "Cool Fruit Dip",
+        "id": 0,
         "Type": "Appetiser",
         "Ingredients": ["1 jar (7 oz) marshmallow crème", "¾ cup reduced-fat sour cream", "1 T. lime juice",
             "1 t. lime zest", "½ t. ground cinnamon"
@@ -9,6 +10,7 @@
     },
     {
         "Name": "Guacamole",
+         "id": 1,
         "Type": "Appetiser",
         "Ingredients": ["1 chopped tomato", "2 T. finely minced white onion", "2 finely chopped Serrano chilies", "1 T. fresh lime juice",
             "½ t. sea salt", "2 large avacados", "2T of finely minced cilantro"
@@ -17,126 +19,147 @@
     },
     {
         "Name": "Oprah’s Deviled Eggs",
+        "id": 2,
         "Type": "Appetiser",
         "Ingredients": ["12 large eggs", "3 T. mayonnaise", "2 T. mustard", "1 T. minced sweet pickle", "1 dash Worcestershire sauce", "Salt and fresh ground pepper", "1 dash lemon juice", "1 dash horseradish sauce", "1-2 dashes Tabasco sauce", "2 T. chopped parsley (plus extra for garnishing)", "2 T. paprika (for garnishing)"],
         "Directions": ["1.     Hard boil eggs; cool; cut each in half lengthwise; remove yolks and place in medium mixing bowl.", "2.     Add all other ingredients and mix well.", "3.     Spoon mixture into egg whites and sprinkle with parsley and paprika.", "4.     Cover and refrigerate at least an hour before serving."]
     },
     {
         "Name": "Salsa",
+        "id": 3,
         "Type": "Appetiser",
         "Ingredients": ["2 - 15 oz. cans petite diced tomatoes, drained and salted.", "1 – 12 oz. can tomato sauce", "¼ red onion, finely chopped.", "2-3 jalapenos (to taste), finely chopped", "½ cup cilantro, chopped", "1-2 large garlic cloves, minced", "½ cup frozen corn", "1 t. chili powder", "½ t. cumin", "Juice from 1 lime", "Salt to taste"],
         "Directions": ["Combine all ingredients and chill before serving."]
     },
     {
         "Name": "Spinach Artichoke Dip  (Jessica Morrell)",
+        "id": 4,
         "Type": "Appetiser",
         "Ingredients": ["14 oz. can artichokes", "10 oz. bag spinach, thawed and drained", "1 cup mayonnaise", "1 cup parmesan", "2 ½ cups shredded Monterey Jack cheese", "pressed fresh garlic", "white pepper", "cayenne pepper"],
         "Directions": ["1.     Heat oven to 350º and grease baking dish.", "2.     Mix ingredients, except for ½ cup cheese.", "3.      Pour into prepared dish and top with ½ cup cheese.", "4.      Bake ~ 15min.  Serve hot."]
     },
     {
         "Name": "Spinach-Feta Quesadillas",
+        "id": 5,
         "Type": "Appetiser",
         "Ingredients": ["2 Whole wheat or white tortillas", "3 ounces crumbled feta cheese", "¼ red pepper (sliced/diced)", "¼ red onion (sliced/diced)", "2 or 3 sliced mushrooms (optional)", "Fresh spinach leaves cut into thin strips", "Olive oil (for sautéing the pepper, onion, and mushroom)"],
         "Directions": ["1.     In a small pan, sauté peppers and onion; when ½ done, toss in mushrooms.", "2.     In a large pan on medium heat, add small amount of olive oil, then a tortilla.", "3.      Put ingredients from small pan onto tortilla; add feta and spinach, then top with another tortilla."]
     },
     {
         "Name": "Cajun Chicken Alfredo Pasta",
+        "id": 6,
         "Type": "Main dish",
         "Ingredients": ["4 Skinless boneless chicken breasts.", "4t of cajun seasoning.", "4T of butter.", "1 red bell pepper diced.", "1 green bell pepper diced.", "1 32oz of heavy whipping cream.", "1t of dry basil.", "1t of lemon pepper.", "1/2 t of salt.", "1/2 t garlic powder.", "1/2 t of black pepper.", "16oz of penne pasta.", "parmesain cheese for topping."],
         "Directions": ["1.   Coat chicken with cajun seasoning and place in crockpot.", "2.  Add rest of dry seasoning, diced peppers, and butter. Cover with heavy whipping cream.", "Cook on high for about 3 1/ hours until chicken shreds easily.", "3.  Add the pasta and cook for 25-30 minutes on low until pasta is done."]
     },
     {
         "Name": "BBQ Meatballs (from Grandmother’s 100th Birthday Party!)",
+        "id": 7,
         "Type": "Main dish",
         "Ingredients": ["1 ½ to 2 lbs ground beef (uncooked).", "1 cup bread crumbs.", "1 T. minced onion.", "1 cup milk.", "1 egg.", "Salt and pepper"],
         "Directions": ["1.   Combine the following in a large bowl: ground beef, bread crumbs, minced onion, egg, salt and pepper.", "2.   Form into small balls (about golf ball sized) and place into a baking dish.  At this point you can freeze them.", "3.      For the sauce, combine the following: ¼ cup vinegar, ¾ cup brown sugar, 1 cup ketchup, 2 T. minced onion", "4.     Pour sauce over meatballs and bake at 350 for I hour, covered.  You can transfer to a crockpot on “warm” if necessary."]
     },
     {
         "Name": "BBQ Meatballs (GAPS)",
+        "id": 8,
         "Type": "Main dish",
         "Ingredients": ["5 lbs ground beef (uncooked).", "1 head raw cauliflower, grated.", "1 onion, finely chopped.", "1 cup coconut milk.", "5 eggs.", "Salt and pepper."],
         "Directions": ["1.     Combine the all ingredients in a very large bowl.", "2.     Form into small balls (about golf ball sized) and place into a baking dish.  At this point you can freeze them (recommend using disposable tin pans for easy baking and cleanup, or separate layers with parchment paper to avoid sticking).", "3.     Bake at 350° for I hour, covered.  If baking from frozen, allow 2+ hours to bake. Serve with your favorite BBQ sauce or ketchup, and a side of steamed veggies."]
     },
     {
         "Name": "Beef Crepes Continental – Naan’s",
+        "id": 9,
         "Type": "Main dish",
         "Ingredients": ["FOR THE SAUCE:", "5T butter.", "2 cups milk.", "3T einkorn flour.", "½ cup cream.", "½ cup grated parmesan cheese.", "½ cup american cheese.", "FOR THE MEAT FILLING:", "1 ½ pounds ground beef.", "1 medium onion.", "1 teaspoon salt.", "¼ teaspoon pepper.", "1 cup chopped mushrooms.", "BAISIC CREPES:", "7/8 cup flour (or 1 cup Einkorn).", "½ cup milk.", "3 T melted butter.", "3 eggs.", "1 T salt."],
         "Directions": ["1.   Cook all crepe ingredients on a crepe pan until dry looking or shiny.", "2. Brown the beef, onion, salt, pepper, and mushroom. Add ½ cup of the sauce.", "3.    Spoon 2 T beef filling into each, and roll.  Place them into a glass baking dish.  Sprinkle with ¼ cup parmesan cheese.  Pour remaining sauce over the crepes.  Bake 20 minutes at 375."]
     },
     {
         "Name": "Braised Chicken and Sun-Dried Tomatoes",
+        "id": 10,
         "Type": "Main dish",
         "Ingredients": ["2 boneless, skinless chicken breasts, thinly sliced.", "2 cups cooked pasta.", "1 T. oil from oil packed sun-dried tomatoes.", "3 large garlic cloves, minced.", "½ cup dry white wine.", "1/3 cup whipping cream (or half & half).", "¼ cup drained, oil-packed sun-dried tomatoes, thinly sliced (use scissors).", "3 T. fresh basil, thinly sliced."],
         "Directions": ["1.     Sprinkle chicken with salt and pepper.", "2.     Heat oil in a skillet over medium-high heat.", "3.      Add chicken and saute’ until golden (about 4 minutes per side).", "4.      Add garlic and stir 30 seconds.", "5.     Add white wine, cream, and tomatoes; bring to a boil.", "6.      Cover skillet and reduce heat to medium-low; simmer until chicken is     cooked through (about 3 minutes); transfer chicken to a plate and set aside.", "7.     Add basil to sauce in skillet; increase heat and boil until sauce thickens     enough to coat spoon (about 2 minutes); season with salt and pepper to taste.", "8.      Return cooked chicken and cooked pasta to skillet and heat through; makes about 2 servings."]
     },
     {
         "Name": "Chicken and Corn Enchiladas",
+        "id": 11,
         "Type": "Main dish",
         "Ingredients": ["3 cups chicken, cooked and shredded.", "1 ½ cups red onions, chopped.", "1 ½ cups frozen corn.", "¾ cup sour cream.", "½ cup cilantro, chopped.", "1 t. cumin", "2 cups Monterey Jack cheese, grated.", "3 cups salsa, thick and chunky.", "1 can enchilada sauce.", "16 corn tortillas."],
         "Directions": ["1.     Lightly oil a large glass baking dish.", "2.     Mix chicken, onions, corn, sour cream, cilantro, cumin, and 1 cup cheese in a large bowl; season with salt and pepper to taste.", "3.     In a separate bowl, combine salsa and enchilada sauce.", "4.     Heat a medium skillet over high heat; add 1 tortilla and cook until heated through (about 10 seconds on each side); remove and brush with sauce mixture.", "5.     Spoon ~ 1/3 cup chicken filling into tortilla and roll; place seem side down in prepared dish.", "6.     Preheat oven to 350º; spoon remaining sauce over enchiladas; sprinkle with remaining 1 cup cheese.", "7.     Cover with foil and bake until heated through, about 35 minutes."]
     },
     {
         "Name": "Chicken Fajitas",
+        "id": 12,
         "Type": "Main dish",
         "Ingredients": ["boneless, skinless chicken breasts.", "Worcestershire sauce,", "Tabasco sauce, green and red,", "Lime juice,", "Chili powder,", "Garlic powder,", "Salt,", "Fresh ground black pepper.", "Red, green, and yellow bell peppers,", "Yellow onion."],
         "Directions": ["1.      Cut boneless, skinless chicken breasts into small pieces, removing all fat.", "2.     Preheat a large skillet to medium-high.", "3.     Add a small amount of olive oil to hot pan and add chicken, stirring occasionally until chicken is all white.", "4.     Add the following (to taste):", "Worcestershire sauce, Tabasco sauce, green and red, Lime juice, Chili powder, Garlic powder, Salt , Fresh ground black pepper.", "5.      Add veggies and continue cooking uncovered, stirring occasionally: Red, green, and yellow bell peppers, Yellow onion.", "6.      When most of liquid has evaporated, add frozen corn and continue cooking until most liquid has evaporated (6-9 more minutes).", "7.     Serve with warm tortillas, shredded cheddar cheese, and light sour cream."]
     },
     {
         "Name": "Chicken Macadamia",
+        "id": 13,
         "Type": "Main dish",
         "Ingredients": ["4 boneless, skinless chicken breasts.", "4-6 cups orange juice (for marinating).", "1 cup bread crumbs.", "1 ½ cup macadamia nuts, chopped.", "1-2 t. salt.", "2 T. butter, melted.", "2 T. olive oil."],
         "Directions": ["1.     Marinate chicken in orange juice overnight.", "2.     Combine, bread crumbs, 1 cup macadamia nuts, and salt in  a medium bowl; coat chicken well; place in baking dish.", "3.     Combine butter and olive oil; drizzle over chicken.", "4.      Generously pat additional macadamia nuts on top of each  piece of chicken. (May refrigerate or freeze at this point.).", "5.      Bake at 375º for 20-25 minutes until browned on edges."]
     },
     {
         "Name": "Chicken (or ground beef) Parmesan Bake (GAPS)",
+        "id": 14,
         "Type": "Main dish",
         "Ingredients": ["cooked spaghetti squash.", "Cooked, shredded chicken (or ground beef).", "1 jar organic spaghetti sauce (I use Amy’s Organic,     Family Marinara).", "½ cup-ish of parmesan cheese."],
         "Directions": ["1.     In a buttered baking dish, cover the bottom with cooked spaghetti squash (I usually do this ahead of time and have in my freezer)", "2.    Top the spaghetti with… Cooked, shredded chicken (or ground beef), 1 jar organic spaghetti sauce (I use Amy’s Organic,     Family Marinara), ½ cup-ish of parmesan cheese.", "3.     Cover and bake at 350° for about 45-60 minutes."]
     },
     {
         "Name": "Chicken Pecan Quiche",
+        "id": 15,
         "Type": "Main dish",
         "Ingredients": ["1 cup flour.", "4 oz. sharp cheddar cheese, shredded.", "¾ cup chopped pecans.", "½ t. salt.", "¼ t. paprika", "1/3 cup vegetable oil."],
         "Directions": ["1.     Combine the following in a bowl and mix well: the flour, sharp cheddar cheese, pecans, the salt, and paprika.", "2.     Stir in 1/3 cup vegetable oil.", "3.     Reserve ¼ of the mixture and set aside.", "4.     Press remaining mixture into the bottom and sides of a 9-inch quiche pan to form a crust (any baking dish will do); prick with a fork; bake at 350º for 10 minutes; allow to cool.", "5.     Combine the following in a large bowl and mix well: 3 eggs, beaten, ½ cup chicken broth, 1 cup sour cream, ¼ cup mayonnaise.", "6.      Stir in: 2 cups chicken, cooked and chopped fine, 3 drops Tabasco sauce, ½ cup cheddar cheese, shredded, ¼ cup onions, minced, ¼ t. dill, dried.", "7.     Spoon mixture into the baked crust.", "8.     Sprinkle with the reserved flour mixture and extra pecan pieces.", "9.     Bake at 350º for 45 minutes or until set."]
     },
     {
         "Name": "Chinese Stir Fry",
+        "id": 16,
         "Type": "Main dish",
         "Ingredients": ["boneless skinless chicken breasts.", "2 teaspoons olive oil.", "Lawry’s 30 Minute Marinade (Terriyaki with pineapple juice).", "Your favorite vegetables, such as green peppers, onions, bean sprouts, water chestnuts, snow peas, broccoli, etc. (frozen vegetables will work too).", "1 can of chicken broth.", "3 heaping T. cornstarch."],
         "Directions": ["1.     Cut up boneless skinless chicken breasts into bite sized pieces.", "2.      Stir fry chicken in ~ 2 teaspoons olive oil until all white (pan should be preheated to medium-high).", "3.     Add a generous amount of Lawry’s 30 Minute Marinade (Terriyaki with pineapple juice).", "4.     Add your favorite vegetables, such as green peppers, onions, bean sprouts, water chestnuts, snow peas, broccoli, etc. (frozen vegetables will work); heat through.", "5.      Add 1 can of chicken broth.", "6.      Add 3 heaping T. cornstarch dissolved in 1 small glass of cold water.", "7.      Return to boil; cook on medium heat until sauce thickens.", "8.     Serve over crunchy Chinese noodles or rice, and garnish with scallions."]
     },
     {
         "Name": "Crunchy Dill Salmon",
+        "id": 17,
         "Type": "Main dish",
         "Ingredients": ["4-6 salmon fillets", "1 cup French’s fried onions.", "1 T. dill.", "½ t. fresh ground black pepper.", "2 T. stone ground mustard.", "2 t. honey.", "½ to 1 t. red pepper flakes.", "Zest and juice from 1 lemon."],
         "Directions": ["1.     Heat oven to 350º and line a baking sheet with foil; coat with cooking spray to prevent sticking.", "2.     Combine onions, dill, and pepper in a zip-loc bag; crush and combine well.", "3.     Combine mustard, honey, red pepper flakes, lemon juice and zest in a small bowl.", "4.     Place salmon fillets (frozen or thawed) on baking sheet; brush with mustard mixture; coat with seasoned onion crumbs.", "5.      Bake at 350º for 25 to 30 minutes or until opaque in center.", "*Serve with steamed veggies and mashed potatoes."]
     },
     {
         "Name": "Grain-free Meatloaf",
+        "id": 18,
         "Type": "Main dish",
         "Ingredients": ["2 lbs. ground beef.", "½ cup almond flour.", "1-2 eggs.", "1 T. minced onion.", "3 cloves garlic, minced.", "1 ½ tsp sea salt.", "1 tsp black pepper", "½ cup ketchup.", "1 T. honey.", "1 T. minced onion.", "1 T. Worcestershire sauce."],
         "Directions": ["1.   In a LARGE bowl, combine the following: 2 lbs. ground beef, ½ cup almond flour, 1-2 eggs, 1 T. minced onion, 3 cloves garlic, minced, 1 ½ tsp sea salt, 1 tsp black pepper.", "2.   In a SMALL bowl, combine the following: ½ cup ketchup, 1 T. honey, 1 T. minced onion, 1 T. Worcestershire sauce.", "3.  Combine ground beef mixture well and form into a loaf pan.  Pour sauce on top.", "4.    .  Bake at 350 for about 1 hour.  Serve with steamed veggies and a grain-free dessert."]
     },
     {
         "Name": "Grilled Salmon Fillet Teriyaki",
+        "id": 19,
         "Type": "Main dish",
         "Ingredients": ["2 T. lemon juice.", "2 T. + 2 t. naturally brewed soy sauce.", "3 T. olive oil.", "2 tsp finely chopped fresh ginger root.", "1 t. dried rosemary.", "¼ t. ground cumin.", "1/8 t. garlic powder.", "Fresh ground black pepper.", "4 salmon fillets, with skin."],
         "Directions": ["1.   Combine lemon juice and soy sauce in a small bowl.", "2.     Gradually whisk in the oil.", "3.     Stir in ginger, rosemary, cumin, garlic, and pepper.", "4.     Marinade fillets ½ to 2 hours before grilling, with only ½ of the marinade; set aside remaining to use later.", "5.      Preheat grill to medium-hot.", "6.      Place the fillets on the grill skin side up and cook 6-7 minutes; turn over and cook 4-5 more minutes for slightly rare, or 6-8 more minutes for well done.", "7.      Place the fillets on plates and spoon remaining marinade on top (this can be done just before removing from the grill)."]
     },
     {
         "Name": "Hamburger, Cheese, and Ketchup",
+        "id": 20,
         "Type": "Main dish",
         "Ingredients": ["Hamburger,", "Cheese,", "Ketchup."],
         "Directions": ["1.     In a large skillet, cook 4-5 pounds of ground beef on medium heat.", "2.    When most of the pink is gone from the ground beef, add 1 head of cauliflower, chopped or grated (optional).", "3.     Cover and continue cooking and chopping the ground beef and cauliflower until both are thoroughly cooked.", "4.     To serve, top with cheese and ketchup for the kiddos; also good with avocado and salsa, rice chips (not GAPS legal though), etc.  Can also be served with steamed veggies."]
     },
     {
         "Name": "Homemade Chicken Broth",
+        "id": 21,
         "Type": "Main dish",
         "Ingredients": ["whole chicken", "water", "2-3 T apple cider vigegar,", "some organic unsalted butter,", "salt, and pepper."],
         "Directions": ["1.     In a large oven safe stockpot, place one (or more if your pan is large enough) whole chicken, organic, free-range.  It can be fresh or frozen.  When you’re making bone broth, it’s very important to use an organic chicken, as the nutrients and minerals from the bones will be in your broth.  Conventionally grown chickens will produce broth with hormones and chemicals.", "2.    Add water to almost cover the chicken; or leave a good 2 inches from the top of the pan.", "3.     Add 2-3 T apple cider vigegar, some organic unsalted butter, sea salt, and pepper.", "4.     Bake at 225, covered, for 12-24 hours.  If cooking 2 or 3 chickens at a time, and/or from frozen, it takes longer.", "5.      Remove from oven and allow to cool for 2-3 hours so it’s cool enough to handle.", "6.      Peel apart, keeping the meat for meals later on.  (I chop and put in a large freezer Ziploc bag.  It breaks apart easily when frozen so you can use however much you need).  Save the rest of the chicken (bones, skin, everything….eww!) and set aside.", "7.      Strain your broth using a fine strainer and refrigerate.", "8.      Return the chicken bones, etc. to your stockpot.  Fill with water, up to about 2 inches from the top.  Add another 2-3 T. ACV, a good amount of sea salt and pepper.  Feel free to add onions, celery, garlic, etc. for flavor, but it’s not necessary.  Bake, covered, for 24-36 hours at 225.  Allow to cool for a couple hours and strain using a fine strainer.", "9.      Combine chicken broth from the fridge, and bone broth together.  Once cooled, ladle into storage containers for the freezer."]
     },
     {
         "Name": "Lemon Chicken Stir-Fry",
+        "id": 22,
         "Type": "Main dish",
         "Ingredients": ["1 cup fresh broccoli florets,", "1 cup red bell peppers, chopped,", "1 medium carrot, coarsely chopped,", "1 t. fresh ginger root, finely chopped,", "3 green onions with tops, sliced,", "1 lemon,", "3-4 boneless skinless chicken breasts, cut into bite-size pieces,", "2 cups water,", "2 pkgs. baked chicken flavor ramen noodles, broken into small pieces."],
         "Directions": ["1.     Chop ginger root; set aside.", "2.      Cut broccoli and carrot; set aside.", "3.      Cut bell peppers, green onions, and lemon zest; set aside.",
@@ -145,91 +168,82 @@
     },
     {
         "Name": "Lentil Rice Casserole",
+        "id": 23,
         "Type": "Main dish",
         "Ingredients": ["¾ cup uncooked lentils, green or red,", "½ cup uncooked long-grain brown rice,", "¼ cup instant minced onion (or one small chopped onion),", "3 cups chicken broth,", "½ t. basil leaves,", "¼ t. oregano leaves,", "¼ t. thyme leaves,", "¼ t. garlic powder,"],
         "Directions": ["1.   Combine all ingredients in a casserole dish.", "2.  Cover and bake for 2 – 2 ½ hours at 300º.", "3.   During last 20 minutes of baking, top with ½ cup grated cheddar cheese.", "4.   Just before serving, stir to blend in melted cheese."]
     },
     {
         "Name":"Margherita Pizza",
+        "id": 24,
         "Type":"Main dish",
         "Directions":["1.      Start with your favorite pizza crust (I  use Naan Bread) and brush lightly with olive oil.", "2.     Add the following, in this order….. Fresh garlic, minced , Fresh mozzarella, sliced (or grated is fine too), Thinly sliced tomatoes, Fresh basil leaves, whole or torn, Little bit of sea salt and freshly  ground black pepper.", "3.      Bake at 425° until cheese is light brown and crust is golden (about 8-9 minutes)."]
     },
     {
         "Name":"Mom’s Enchiladas",
+        "id": 25,
         "Type":"Main dish",
         "Directions":["1.      Dried Ancho Chiles – Cut them open with scissors; remove seeds and stem.  Boil the chiles in water until they are soft…..about  30-40 minutes.", "2.     In a blender, add……. boiled ancho chiles, 2 tsp. onion powder, 2 tsp. garlic powder, 1 tsp. cumin, water to pouring consistency.", "3.     In a deep fat fryer, add about 2 inches of vegetable oil, and heat on high.  Dip tortillas in the ancho chile sauce, then into the hot oil.  Fry on each side, until the tortilla holds its shape a little.  (It will look like a wet rag if you remove it too early.) Place paper towels between tortillas to soak up extra oil.  You will want to do this step in a well-covered area, as the oil/sauce will splatter…….it’s best done outside or in the garage.", "4.     For hamburger mixture…… Ground beef, Onion, Velveeta cheese.", "For the Salsa……..puree the following in a blender: 1 can diced tomatoes, 1 can rotel, 2-3 cloves garlic, minced, ¼ red onion, cumin (a few shakes), 1 tsp. garlic powder , 1 tsp. onion powder, jalepenos (2 slices….or to taste)."]
     },
     {
         "Name":"Mom’s Fried Chicken ",
+        "id": 26,
         "Type":"Main dish",
         "Ingredients":["Thaw boneless, skinless chicken breasts,", "~ ¾ cup flour,", "~ 3 T. Mrs. Dash Table Blend seasoning,", "butter flavor Crisco,", "flour,", "salt and pepper,", "milk"],
         "Directions":["1.     Thaw boneless, skinless chicken breasts (cut into strips) or tenderloins; cut off any visible fat.", "2.     In a large Ziploc bag, combine: ~ ¾ cup flour, ~ 3 T. Mrs. Dash Table Blend seasoning.", "3.     Preheat large skillet to medium.", "4.     Add butter flavor Crisco, enough to cover bottom of pan.", "5.     Dredge chicken in flour mixture and place in pan, turning 2-4     times as needed for browning. For tenderloins or strips, it will take ~ 15 minutes to cook; for whole chicken breasts, it will take closer to 30 minutes. Be careful not to burn the chicken, as this will ruin the gravy as well.", "6.     When fully cooked, transfer to a stack of paper towels and immediately press to soak up grease (this is a very important step).", "FOR GRAVY:", "1.      Add flour to pan (amount of flour should equal amount of grease) and additional Mrs. Dash if needed for seasoning.", "2.     Cook for a minute or two until brown, stirring constantly.", "3.     Slowly whisk in milk and continue whisking constantly to prevent lumps from forming; cook to consistency.", "4.     Add salt and pepper if needed to taste; serve with mashed potatoes."]
     },
     {
         "Name":"Naked Burgers ",
+        "id": 27,
         "Type":"Main dish",
         "Ingredients":["meat patty,", "organic worcestershire,", "fresh ground black pepper,unsalted butter,", "cheese,", "lettuce,", "tomato."],
         "Directions":["1.  Season meat patty as you like. (I use organic worcestershire and fresh ground black pepper).", "2.  Place a pat of organic unsalted butter on top.", "3.  Grill as preferred, letting the butter melt into the burger before flipping.", "4.  To serve…top with cheese (cheddar or pepper jack), slices of avocado, lettuce, and tomato; drizzle with olive oil (or homemade ranch); salt & pepper."]
     },
     {
         "Name":"Parmesan Chicken",
+        "id": 28,
         "Type":"Main dish",
         "Ingredients":["Boneless skinless chicken breasts,", "Parmesan cheese,", "Seasoned flour (salt, pepper, herbs),", "2 eggs, slightly beaten,", "Spaghetti sauce,", "Onion,", "Mozzarella cheese, shredded."],
         "Directions":["1.       Dip chicken in egg, then flour, then parmesan.", "2.     In a frying pan with oil, brown both sides.", "3.     Place chicken in a large glass baking dish.", "4.      Cover with sliced onions, spaghetti sauce, mozzarella, and     parmesan.", "5.     Bake at 350º for about 30 minutes."]
     },
     {
         "Name":"Pineapple Ham",
+        "id": 29,
         "Type":"Main dish",
         "Ingredients":["1 fully cooked spiral cut ham,", "1 pound brown sugar,", "3 cups milk (approximately),", "1- 20 ounce can, crushed pineapple, drained."],
         "Directions":["1.    Trim any visible fat from ham and place cut side down in a roasting pan.", "2.    Pour enough milk over the ham so it is about ¼ inch deep in the pan.", "3.    Using your hands, coat the ham with a generous portion of brown sugar.", "4.    In the same manner, pack with drained pineapple.", "5.    Cover with aluminum foil and refrigerate overnight.", "6.    Preheat oven to 350°.  Bake, covered, for 30 minutes.", "7.     Remove aluminum foil and baste with juices from the pan.", "8.     Leave uncovered and continue baking another 30 minutes, or until ham is heated through."]
     },
     {
         "Name":"Ravioli Vegetable Stack",
+        "id": 30,
         "Type":"Main dish",
         "Directions":["Layer the following in this order, and then repeat:", "1.     Plum tomatoes, thinly sliced.", "2.     Drizzle with olive oil", "3.     Spinach, thinly sliced", "4.     Fresh basil leaves, thinly sliced", "5.      Zucchini and yellow squash, sliced lengthwise", "6.      Red onion, thinly sliced", "7.      Frozen meat-filled or cheese-filled ravioli", "8.      Italian-blend shredded cheese", "9.      Parmesan cheese", "10.      Salt and pepper", "Bake at 375°, uncovered for about 30-40 minutes, or until golden brown on top.", "Hint: Do NOT serve to Cash! :)"]
     },
     {
         "Name":"Herb Roasted Turkey Breast with Pan Gravy",
+        "id": 31,
         "Type":"Main dish",
         "Ingredients":["HERB PASTE", "1/2 small onion, coarsely chopped,", "Zest from 1 lemon,", "12 fresh sage leaves,", "½ cup fresh parsley,", "3 T. extra virgin olive oil,", "1 t. salt", "BAY BUTTER", "2 fresh bay leaves,", "4 T. butter.", "TURKEY", "Olive oil,", "2 boneless turkey breast halves, skin and netting on (~ 2 to 2 ½ pounds each),", "Salt and freshly ground black pepper.", "PAN GRAVY:", "3 T. flour,", "¼ cup apple or regular brandy,", "2 to 3 cups apple cider,", "Salt and pepper."],
         "Directions":["HERB PASTE:", "1.    Add onion and lemon zest to food processor and chop until fine.", "2.   Add sage leaves, parsley, olive oil, and salt; pulse until it forms a course paste.", "BAY BUTTER:", "1.    In a small sauce pan, heat butter and bay leaves over medium-low heat until butter is bubbling; remove from heat and set aside.", "TURKEY:", "1.    Preheat oven to 450º and oil a roasting pan.", "2.  Carefully run fingers under the skin creating a pocket.", "3.   Generously season with salt and pepper.  Spread herb paste evenly under skins.", "4.    Transfer to roasting pan and slide 2 bay leaves under each one.  Baste each with bay butter.", "5.   Place in oven and immediately decrease temperature to 400º.  After 20 minutes, baste with remaining bay butter and continue roasting for 20-25 minutes.", "6.  A thermometer placed in the thickest part should register 170º.  Remove from oven and transfer to a platter.  Let rest 10 minutes before carving while making the gravy.", "1.  Place roasting pan over burner on medium heat.", "2.    Sprinkle flour over the pan juices and cook, stirring for a few minutes.  Add brandy and cook for a minute to burn off alcohol.", "3.   While stirring, pour in apple cider.  Bring to simmer and stir until thickened.  Season with salt and pepper.", "*To make extra gravy, add butter to pan juices, then extra flour.  For every tablespoon of butter, use 1 extra tablespoon flour.  Use chicken broth for liquid."]
     },
     {
         "Name":"Sloppy Joe Di Maggios",
+        "id": 32,
         "Type":"Main dish",
         "Ingredients":["2 pounds ground hamburger or turkey,", "Onion, chopped,", "1 T. steak seasoning (Montreal Steak Seasoning by     McCormick),", "1 T. chili powder,", "3 T. brown sugar,", "3 T. Worcestershire sauce,", "1 can tomato sauce."],
         "Directions":["1.   Brown the hamburger or turkey in a frying pan; add the onions and continue to cook 3-4 more minutes.", "In a bowl, mix the: chili powder, brown sugar, worcestershire sauce, tomato sauce, and the steak seasoning.", "3.   Add sauce to meat mixture and simmer a few minutes; serve over buns."]
     },
     {
         "Name":"Sopa Da Fidro",
+        "id": 33,
         "Type":"Main dish",
         "Ingredients":["2 T. butter,", "½ pound vermicelli, broken into small pieces,", "1 T. salt,", "1 t. ground pepper,", "1 t. chili powder,", "2 cloves garlic, minced,", "1 small onion, chopped,", "3-4 stalks celery, chopped,", "3 bell peppers (red, yellow, and green),", "1 small pkg frozen corn,", "1 can petite diced tomatoes, not drained,", "1 cup water,", "6-8 slices, sharp cheddar cheese."],
         "Directions":["1.      In a very large skillet, melt butter and sauté vermicelli until lightly browned.", "2.     Stir in salt, pepper, chili powder, garlic, onion, celery, bell peppers, and corn.", "3.     Add tomatoes and water; simmer 20-25min.", "4.     Pour into large baking dish; cover with sliced cheese.", "5.     Bake at 350º until cheese is melted and heated through (10-15min.)."]
     },
     {
         "Name":"Souper Potato Pie",
+        "id": 34,
         "Type":"Main dish",
         "Directions":["Mix the following and spread into a 9-inch pie pan: 1/2 can cream of mushroom soup, 1 pound hamburger (uncooked and thawed), ¼ onion, 1 egg, slightly beaten, ¼ cup dried bread crumbs, ½ teaspoon salt, Dash pepper.", "Bake the above mixture at 350º for 25 minutes then drain.", "Top with: 2 cups mashed potatoes, ½ cup shredded cheese and the rest of mushroom, soup (combined).", "Continue baking at 350º for another 15-20 minutes."]
-    },
-    {
-        "Name":"",
-        "Type":"Main dish",
-        "Ingredients":["", "", "", "", "", ""],
-        "Directions":["", "", ""]
-    },
+    }
 ]
-
-
-
-
-
-
-
-
-
-{
-    "Name":"",
-    "Type":"Main dish",
-    "Ingredients":["", "", "", "", "", ""],
-    "Directions":["", "", ""]
-},
